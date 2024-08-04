@@ -1,8 +1,12 @@
-# 🎮 Gaming Marketing Analyst
+# 🚀 GenAI Specialist
 
 ## About Me
 
-I am a passionate gaming marketing analyst with a mission to transform gaming experiences through analytical prowess. Currently, I'm leveraging my skills at **Reliance JioGames** to revolutionize the gaming industry through strategic marketing campaigns and insightful analytics.
+I am currently immersed in hands-on experience with **GenAI**, working actively on developing and optimizing generative AI models. This role involves leveraging cutting-edge technology to advance machine learning and AI applications, focusing on creating innovative solutions and enhancing model performance.
+
+## 🎮 Gaming Marketing Analyst
+
+In addition to my work in GenAI, I am a passionate gaming marketing analyst with a mission to transform gaming experiences through analytical prowess. Currently, I'm leveraging my skills at **Reliance JioGames** to revolutionize the gaming industry through strategic marketing campaigns and insightful analytics.
 
 ## Expertise
 
@@ -46,21 +50,4 @@ Collaboration is in my DNA. I thrive in cross-functional teams, effectively comm
 - Association Rules
 - Correlation & Regression Analysis
 - Random Forest
-- Neural Networks
-- Clustering (K-means)
-- Decision Trees
-- Data Extraction
-- Data Cleaning
-- Linear/Logistic Regression
-- Time Series Forecasting
-- Principal Component Analysis
-- Business Decision Modeling
-- Business Analytics
-- Strategy
-
-## Let's Connect
-
-Feel free to connect with me if you're interested in collaborating, discussing gaming analytics, or exploring new opportunities in the gaming industry.
-
-[LinkedIn](https://www.linkedin.com/in/nandan-dutta-7b26b736/)
-[Email](mailto:n.dutta25@gmail.com)
+- Neural
